@@ -61,7 +61,7 @@ Nossa comunidade é para profissionais de tecnologia que:
 - **Site**:
 [techleads.club](https://techleads.club?utm_source=github&utm_medium=org-profile-readme)
 - **Email**: contato@techleads.club
-- **LinkedIn**: [TechLeads.club](https://linkedin.com/company/techleads-club)
+- **LinkedIn**: [TechLeads.club](https://www.linkedin.com/company/tech-leads-club)
 - **Instagram**: [@techleads.club](https://instagram.com/techleads.club)
 - **Substack**: https://techleadsclub.substack.com
 
